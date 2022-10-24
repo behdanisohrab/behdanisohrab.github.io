@@ -11,10 +11,10 @@ params:
       url: https://github.com/behdanisohrab
     - name: twitter
       url: https://twitter.com/behdanisohrab1
-    - name: wekhed
-      url: https://wekhed.ir/sohrabbehdani
-    - name: zilink
-      url: https://zil.ink/sohrabbehdani/
+    - name: linkedin
+      url: https://www.linkedin.com/in/sohrab-behdani-047275254
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/20324202/sohrab-behdani
 
   ShowReadingTime: true
   ShowPostNavLinks: true
