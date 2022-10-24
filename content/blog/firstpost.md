@@ -15,6 +15,6 @@ The first Linux distribution I used was Kubuntu in 2014. Windows XP support was 
 
 #### What am I interested in doing?
 
-Well, I am interested in chess and music as well as literature and I used to write poetry :)
+Well, I am interested in chess and music as well as literature :)
 
 # 
