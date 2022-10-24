@@ -1,7 +1,7 @@
 #baseURL: https=//behdanisohrab.github.io/
 languageCode: en-us
 title: Sohrab Behdani personal blog
-theme: PaperMod
+theme: Paper
 params:
   defaultTheme: auto
   socialIcons:
