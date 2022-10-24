@@ -51,6 +51,7 @@ menu:
       title: tags
       url: /tags/
     - weight: 4
+      identifier: search
       title: search
       url: /search/
 taxonomies:
