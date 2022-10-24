@@ -1,6 +1,7 @@
-| title    | date                      |
-| -------- | ------------------------- |
-| about me | 2022-10-22 21:02:11 +0330 |
+---
+title: "About Me"
+date: Mon Oct 24 10:30:36 PM +0330 2022
+---
 
 # Hi i am Sohrab Behdani 👋
 
