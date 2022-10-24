@@ -38,21 +38,19 @@ menu:
     - weight: 1
       identifier: about
       name: about
-      title: about
+      title: About Me
       url: /about/
     - weight: 2
       identifier: blog
       name: blog
-      title: blog
       url: /blog/
     - weight: 3
       identifier: tags
       name: tags
-      title: tags
       url: /tags/
     - weight: 4
       identifier: search
-      title: search
+      name: search
       url: /search/
 taxonomies:
   tag: tags
