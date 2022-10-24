@@ -1,6 +1,6 @@
 #baseURL: https=//behdanisohrab.github.io/
 languageCode: en-us
-title: Sohrab Behdani personal blog
+title: Sohrab Behdani
 theme: "PaperMod"
 params:
   defaultTheme: auto
@@ -31,8 +31,8 @@ params:
   tocopen: false
   profileMode:
     enabled: true
-    title: sohrab`s personal blog.
-    subtitle: i wrote my ideas and some fun stuff in here :).
+    title: Sohrab`s personal blog.
+    subtitle: I will write my ideas and some fun stuff in here :)
 menu:
   main:
     - weight: 1
