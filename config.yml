@@ -50,7 +50,9 @@ menu:
       name: tags
       title: tags
       url: /tags/
-
+    - weight: 4
+      title: search
+      url: /search/
 taxonomies:
   tag: tags
 
