@@ -1,12 +1,14 @@
 ---
 title: "About Me"
-date: Mon Oct 24 10:30:36 PM +0330 2022
+date: 2022-10-20T21:02:11+03:30
 ---
 
 # Hi i am Sohrab Behdani 👋
 
-#### Programmer and developer of [Pyabr](https://pyabr.ir) and [parchlinux](https://parchlinux.ir)
+#### A curious 18-year-old math and physics student from Iran and developer and programmer of [Pyabr](https://pyabr.ir) and [parchlinux](https://parchlinux.ir)
 
 #### Founder of Bss foundation
+
+#### Interested in rust programming language
 
 
