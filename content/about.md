@@ -10,5 +10,3 @@ date: 2022-10-22T22:02:11+03:30
 #### Founder of Bss foundation
 
 #### Interested in rust programming language
-
-
