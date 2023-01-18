@@ -15,9 +15,10 @@ params:
       url: https://www.linkedin.com/in/sohrab-behdani-047275254
     - name: stackoverflow
       url: https://stackoverflow.com/users/20324202/sohrab-behdani
-
+    - name: telegram
+      url: https://t.me/behdanisohrab
   ShowReadingTime: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
