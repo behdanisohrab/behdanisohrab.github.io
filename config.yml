@@ -5,6 +5,10 @@ theme: "PaperMod"
 params:
   defaultTheme: auto
   socialIcons:
+    - name: Instagram
+      url: https://instagram.com/sohrabbehdani
+    - name: Youtube
+      url: https://youtube.com/@sohrabbehdani
     - name: email
       url: mailto:behdanisohrab@gmail.com
     - name: github
@@ -16,7 +20,7 @@ params:
     - name: stackoverflow
       url: https://stackoverflow.com/users/20324202/sohrab-behdani
     - name: telegram
-      url: https://t.me/behdanisohrab
+      url: https://t.me/sbstuff
   ShowReadingTime: true
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
