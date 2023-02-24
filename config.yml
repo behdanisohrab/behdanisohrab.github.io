@@ -31,6 +31,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   hidemeta: false
+  comments: true
   hideSummary: false
   showtoc: true
   tocopen: false
