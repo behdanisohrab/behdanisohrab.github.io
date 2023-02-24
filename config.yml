@@ -9,18 +9,20 @@ params:
       url: https://instagram.com/sohrabbehdani
     - name: Youtube
       url: https://youtube.com/@sohrabbehdani
-    - name: email
+    - name: Email
       url: mailto:behdanisohrab@gmail.com
-    - name: github
+    - name: Github
       url: https://github.com/behdanisohrab
-    - name: twitter
+    - name: Twitter
       url: https://twitter.com/behdanisohrab1
-    - name: linkedin
+    - name: Linkedin
       url: https://www.linkedin.com/in/sohrab-behdani-047275254
-    - name: stackoverflow
+    - name: Stackoverflow
       url: https://stackoverflow.com/users/20324202/sohrab-behdani
-    - name: telegram
+    - name: Telegram
       url: https://t.me/sbstuff
+    - name: Devto
+      url: https://dev.to/behdanisohrab
   ShowReadingTime: true
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
