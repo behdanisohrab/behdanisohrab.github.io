@@ -1,6 +1,8 @@
 ---
 title: "About Me"
 date: 2022-10-22T22:02:11+03:30
+comments: false
+ShowReadingTime: false
 ---
 
 # Hi i am Sohrab Behdani 👋
