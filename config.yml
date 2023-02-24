@@ -37,6 +37,9 @@ params:
   tocopen: false
   profileMode:
     enabled: true
+    imageUrl: "https://avatars.githubusercontent.com/u/72007820?s=400&u=b4edfbb1458f1f6486de03b2dd503cf48e920604&v=4"
+    imageWidth: 120
+    imageHeight: 120
     title: Sohrab`s personal blog.
     subtitle: I will write my ideas and some fun stuff in here :)
 menu:
