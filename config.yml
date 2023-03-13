@@ -10,7 +10,7 @@ params:
     - name: Youtube
       url: https://youtube.com/@sohrabbehdani
     - name: Email
-      url: mailto:behdanisohrab@gmail.com
+      url: mailto:behdanisohrab@parchlinux.ir
     - name: Github
       url: https://github.com/behdanisohrab
     - name: Twitter
