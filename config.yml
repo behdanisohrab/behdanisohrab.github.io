@@ -81,5 +81,10 @@ markup:
     # noClasses: false
     style: monokai
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON 
     # analytics:
   # googleAnalytics: 
