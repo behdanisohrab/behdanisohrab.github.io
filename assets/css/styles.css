@@ -1137,3 +1137,6 @@ html, .scroll-hide{
   object-fit: cover;
 }
 
+.toot .body .p h-card {
+  direction: rtl;
+}
