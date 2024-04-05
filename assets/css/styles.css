@@ -1025,9 +1025,10 @@ html, .scroll-hide{
 
 
 .toots {
+  float: right;
   max-width: 400px;
   list-style: none;
-  padding: 0;
+  padding: 10px;
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 }
 
@@ -1044,7 +1045,6 @@ html, .scroll-hide{
   align-content: flex-start;
   height: 46px;  /* Avatar height. */
   column-gap: 0.5rem;
-
   text-decoration: none;
   color: inherit;
 }
@@ -1056,6 +1056,7 @@ html, .scroll-hide{
 .toot .display-name {
   font-weight: bold;
   display: block;
+  color: white;
 }
 
 .toot .user:hover .display-name {
@@ -1098,6 +1099,8 @@ html, .scroll-hide{
 .toot .body {
   clear: both;
   margin-top: 1em;
+  color: white;
+  direction: rtl !important;
 }
 
 .toot .body a {
@@ -1111,11 +1114,14 @@ html, .scroll-hide{
   line-height: 0;
   width: 0;
   height: 0;
-  position: absolute;
+  direction: rtl;
+  position: fixed;
+  right: 100px;
 }
 
 .toot .body .ellipsis::after {
   content: "…";
+  direction: rtl;
 }
 
 .toot .attachment {
