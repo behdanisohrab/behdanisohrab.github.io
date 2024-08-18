@@ -1,0 +1,80 @@
+@media (max-width: 19.625em) {
+	.img-profile {
+		width: 10rem;
+	}
+	.title-name {
+		font-size: 1.8rem;
+	}
+	.title-desc {
+		font-size: 1.6rem;
+	}
+	ul {
+		flex-direction: column;
+		gap: 1.4rem;
+		border: none;
+	}
+}
+
+@media (min-width: 26.5625em) {
+	.img-profile {
+		width: 16rem;
+	}
+	.title-name {
+		font-size: 2.4rem;
+	}
+	.title-desc {
+		font-size: 2rem;
+	}
+	a:link,
+	p {
+		font-size: 1.4rem;
+	}
+}
+
+@media (min-width: 48em) {
+	.img-profile {
+		width: 18rem;
+	}
+	.title-name {
+		font-size: 2.8rem;
+	}
+	.title-desc {
+		font-size: 2.4rem;
+	}
+	a:link,
+	p {
+		font-size: 1.6rem;
+	}
+}
+
+@media (min-width: 90em) {
+	.img-profile {
+		width: 22rem;
+	}
+	.title-name {
+		font-size: 3.2rem;
+	}
+	.title-desc {
+		font-size: 2.6rem;
+	}
+	a:link,
+	p {
+		font-size: 1.8rem;
+	}
+}
+
+@media (min-width: 160em) {
+	.img-profile {
+		width: 30rem;
+	}
+	.title-name {
+		font-size: 4.8rem;
+	}
+	.title-desc {
+		font-size: 4.2rem;
+	}
+	a:link,
+	p {
+		font-size: 3.2rem;
+	}
+}

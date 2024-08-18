@@ -1,0 +1,49 @@
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 300;
+	src: url(/assets/fonts/Rubik-farsi-Light.ttf) format("truetype");
+}
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 400;
+	src: url(/assets/fonts/Rubik-farsi-Regular.ttf) format("truetype");
+}
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 500;
+	src: url(/assets/fonts/Rubik-farsi-Medium.ttf) format("truetype");
+}
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 600;
+	src: url(/assets/fonts/Rubik-farsi-SemiBold.ttf) format("truetype");
+}
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 700;
+	src: url(/assets/fonts/Rubik-farsi-Bold.ttf) format("truetype");
+}
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 800;
+	src: url(/assets/fonts/Rubik-farsi-ExtraBold.ttf) format("truetype");
+}
+@font-face {
+	font-display: swap;
+	font-family: "Rubik farsi";
+	font-style: normal;
+	font-weight: 900;
+	src: url(/assets/fonts/Rubik-farsi-Black.ttf) format("truetype");
+}

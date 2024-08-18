@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>you got 404ed</title>
+		<style>
+			@font-face {
+				font-family: "Jetbrains mono";
+				src: url("/assets/fonts/JetBrainsMono-Medium.ttf") format("truetype");
+				font-weight: 500;
+			}
+			@font-face {
+				font-display: swap;
+				font-family: "Rubik farsi";
+				font-style: normal;
+				font-weight: 700;
+				src: url(/assets/fonts/Rubik-farsi-Bold.ttf) format("truetype");
+			}
+			*,
+			*::before,
+			*::after {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+
+				--black: #0f0f0f;
+				--white: #f0f0f0;
+				user-select: none;
+			}
+			html {
+				font-size: 62.5%;
+				height: 100dvh;
+				font-family: "Jetbrains mono";
+			}
+			body {
+				height: 100dvh;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				gap: 1.4rem;
+				background-color: var(--black);
+				color: var(--white);
+				text-align: center;
+				padding: 1rem;
+			}
+			h1 {
+				font-size: 4rem;
+				border-bottom: 1px solid var(--white);
+				padding-bottom: 0.6rem;
+			}
+			p {
+				font-size: 2.8rem;
+				text-wrap: balance;
+			}
+			a:link,
+			a:visited {
+				color: var(--white);
+				text-decoration: none;
+				border-bottom: 1px dashed var(--white);
+				font-size: 3rem;
+			}
+			a:hover,
+			a:focus,
+			a:active {
+				border-bottom: 1px solid var(--white);
+				outline: none;
+			}
+			[dir="rtl"] {
+				font-family: "Rubik farsi";
+			}
+			@media (max-width: 21.25em) {
+				h1 {
+					font-size: 3rem;
+				}
+				p {
+					font-size: 2.2rem;
+				}
+				a {
+					font-size: 2.4rem !important;
+				}
+			}
+			@media (max-width: 16.875em) {
+				h1 {
+					font-size: 2rem;
+				}
+				p {
+					font-size: 1.6rem;
+				}
+				a {
+					font-size: 1.8rem !important;
+				}
+			}
+		</style>
+		<link rel="icon" href="/assets/img/404.svg" type="image/svg+xml" />
+	</head>
+	<body align="center">
+		<h1>You got 404ed - <span dir="rtl">خطای ۴۰۴</span></h1>
+		<p>The link you're looking for was not found.</p>
+		<p dir="rtl" align="center">لینکی که بدنبال آن هستید پیدا نشد.</p>
+		<a href="javascript:history.back()"
+			>&leftarrow; Go Back <span dir="rtl">برگرد عقب</span></a
+		>
+	</body>
+</html>
